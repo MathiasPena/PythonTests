@@ -1,0 +1,5 @@
+id,nombre,edad,salario,departamento,nombre_completo,bono
+5,Juan,40,7000.0,Recursos Humanos,Juan Pérez,350.0
+4,Sofia,22,4666.666666666667,Sales,Sofia Pérez,233.33333333333337
+2,Luis,30,4000.0,Recursos Humanos,Luis Pérez,200.0
+1,Ana,25,3000.0,Tecnología,Ana Pérez,150.0
